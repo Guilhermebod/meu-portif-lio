@@ -15,3 +15,96 @@ button {
     border: none;
     font-family: inherit;
 }
+
+@media screen and (max-width: 775px) {
+    .main-action {
+        font-size: 10px;
+        margin-right: 2px;
+    }
+}
+
+@media screen and (max-width: 775px) {
+    .main-button {
+        font-size: 10px;
+        box-shadow: 2px 2px 0px #000;
+        padding: 9px 10px;
+    }
+}
+
+@media screen and (max-width: 775px) {
+    .logo_inicio {
+        height: 35px;
+        width: 35px;
+    }
+}
+
+@media screen and (max-width: 775px) {
+    #main-box {
+        box-shadow: 6px 6px 0 black;
+        padding: 18px 5px;
+        padding: 18px 20px;
+    }
+
+    #main-box h1 {
+        margin-bottom: 15px;
+    }
+
+    .main-title {
+        font-size: 15px;
+        text-shadow: 2px 2px 0px black;
+    }
+
+    .main-subtitle {
+        font-size: 12px;
+        text-shadow: 2px 2px 0px black;
+    }
+
+    .main-banner .wrapper {
+        display: flex;
+        flex-direction: column;
+        width: 308px;
+    }
+}
+
+
+@media screen and (max-width: 775px) {
+    .skill-tec .icon {
+        padding-top: 36px;
+        margin-right: 5px;
+        height: 50px;
+        
+      }
+
+      .skill-tec .title {
+        margin-bottom: 10px;
+        font-size: 15px;
+    }
+}
+
+@media screen and (max-width: 775px) {
+    .skill-tec .icon {
+        margin-left: 20px;
+        margin-right: 20px;
+      }
+}
+
+@media screen and (max-width: 775px) {
+    .main-description {
+        font-size: 15px;
+      }
+}
+
+@media screen and (max-width: 775px) {
+    .main-label {
+        font-size: 15px;
+      }
+
+      .main-input.-textarea {
+        height: 160px;
+      }
+
+      .main-logo_rs {
+        height: 28px;
+        width: 28px;
+    }
+}
