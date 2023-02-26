@@ -110,3 +110,9 @@ button {
         width: 28px;
     }
 }
+
+@media screen and (max-width: 775px) {
+    .main-banner {
+        height: 380px;
+    }
+}
