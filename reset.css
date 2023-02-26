@@ -72,12 +72,12 @@ button {
 
 @media screen and (max-width: 775px) {
     .skill-tec .icon {
-        padding-top: 36px;
-        margin-right: 5px;
+        padding-top: 50px;
+        margin-right: 3px;
         height: 50px;
-      }
-
-      .skill-tec .title {
+    }
+    
+    .skill-tec .title {
         margin-bottom: 10px;
         font-size: 15px;
     }
